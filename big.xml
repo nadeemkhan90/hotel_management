@@ -1,0 +1,43 @@
+<images>
+	<photo image="images/big/101.jpg" url = "http://www.flashxml.net">
+	</photo>
+	
+	<video media="video/elite.flv" image="video/elite.jpg" skin="assets/skins/videoSkin1.xml" backColor="0x000000" backAlpha="1" autoplay="true"></video>
+	
+	<photo image="images/big/102.jpg">
+	</photo>
+	
+	<photo image="images/big/103.jpg">
+	</photo>
+	
+	<photo image="images/big/104.jpg">
+	</photo>
+	
+	<photo image="images/big/105.jpg">
+	</photo>
+		
+	<photo image="images/big/106.jpg">
+	</photo>
+	
+	<photo image="images/big/107.jpg">
+	</photo>
+	
+	<photo image="images/big/108.jpg">
+	</photo>
+	
+	<photo image="images/big/109.jpg">
+	</photo>
+	
+	<photo image="images/big/110.jpg" url = "http://www.flashxml.net">
+	</photo>
+	
+	<photo image="images/big/111.jpg">
+	</photo>
+	
+	<photo image="images/big/112.jpg">
+	</photo>
+	
+	<photo image="images/big/113.jpg">
+	</photo>
+	
+</images>

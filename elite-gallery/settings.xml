@@ -1,0 +1,14 @@
+﻿<settings>
+  <General_Properties>
+    <position value="top"/>
+    <frameSize value="100"/>
+    <frameColor1 value="0x003333"/>
+    <frameColor2 value="0x000000"/>
+    <frameGradientRatio value="227"/>
+    <borderWidth value="1"/>
+    <borderColor value="0xffffff"/>
+    <borderAlpha value="1"/>
+    <path value="DockMenuFX"/>
+    <showAbout value="true"/>
+  </General_Properties>
+</settings>

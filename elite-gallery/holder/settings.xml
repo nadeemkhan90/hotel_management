@@ -1,0 +1,75 @@
+﻿<settings>
+  <General_Properties>
+    <componentWidth value="1285"/>
+    <componentHeight value="607"/>
+    <preloader value="assets/preloaders/redsquares.swf"/>
+    <slideShow value="false"/>
+    <delay value="3"/>
+    <imageFitting value="forcefit"/>
+    <urlIconLink value="assets/goToUrlGreen.png"/>
+    <controls value="assets/skins/skin1.xml"/>
+    <assets value="big.xml"/>
+    <showAbout value="true"/>
+  </General_Properties>
+  <Frame_Properties>
+    <motion value="Cubic"/>
+    <ease value="easeOut"/>
+    <motionTime value="0.5"/>
+    <frameColor value="0x003300"/>
+    <frameWidth value="3"/>
+    <frameAlpha value="1"/>
+  </Frame_Properties>
+  <Loading_Transitions>
+    <loadingTrans value="assets/transitions/3D.xml"/>
+    <randomTrans value="true"/>
+  </Loading_Transitions>
+  <Text_Effects>
+    <textEff value="assets/transitions/favorites-text.xml"/>
+    <randomTextEff value="true"/>
+  </Text_Effects>
+  <Text_Properties>
+    <textEffectDelay value="0"/>
+    <bodyTextDelay value="0.71"/>
+    <styleSheet value="assets/css/style.css"/>
+    <hPos value="left"/>
+    <vPos value="bottom"/>
+    <bodyDistance value="8"/>
+    <offset value="26"/>
+    <width value="0"/>
+    <headBgColor value="0xffffff"/>
+    <bodyBgColor value="0x003300"/>
+    <bgAlpha value="0.53"/>
+    <borderColor value="0x000000"/>
+    <borderAlpha value="1"/>
+    <borderWidth value="1"/>
+    <cornerRadius value="0"/>
+    <paddingLeft value="7"/>
+    <paddingRight value="17"/>
+    <paddingTop value="7"/>
+    <paddingBottom value="7"/>
+    <headUseDouble value="false"/>
+    <headOffsetDirection value="BR"/>
+    <bodyUseDouble value="false"/>
+    <bodyOffsetDirection value="BR"/>
+    <embedFonts value="true"/>
+  </Text_Properties>
+  <Background_Properties>
+    <fillType value="image"/>
+    <backgroundImage value="assets/floral1.jpg"/>
+    <backgroundFitting value="repeat"/>
+    <backgroundColor1 value="0xffffff"/>
+    <backgroundColor2 value="0xff0000"/>
+    <backgroundAlpha value="1"/>
+    <bgCornerRadius value="5"/>
+    <gradientRotation value="30"/>
+    <gradientRatio value="40"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+    <useShade value="false"/>
+    <shadeColor value=""/>
+    <shadeAlpha value="0"/>
+    <shadeRatio value="0"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Background_Properties>
+</settings>
